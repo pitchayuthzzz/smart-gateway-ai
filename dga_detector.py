@@ -1,102 +1,69 @@
 import math
-import re
 from collections import Counter
 
 class DGADetector:
-    def __init__(self, entropy_threshold=3.5, min_length=12):
+    def __init__(self, entropy_threshold=3.6, min_length=13):
         self.entropy_threshold = entropy_threshold
         self.min_length = min_length
-        self.whitelist = {"google", "youtube", "facebook", "github", "microsoft", "cloudflare", "apple"}
+        # รายชื่อ Whitelist โดเมนและบริการมาตรฐานที่พบบ่อย
+        self.whitelist_keywords = [
+            "google", "youtube", "facebook", "github", "microsoft", 
+            "apple", "cloudflare", "captcha-delivery", "datadome",
+            "recaptcha", "akamai", "live", "office"
+        ]
+
+    def _extract_core_domain(self, domain: str) -> str:
+        parts = domain.strip().lower().split(".")
+        if len(parts) >= 2:
+            # ดึงเฉพาะชื่อหลัก เช่น "captcha-delivery" จาก "geo.captcha-delivery.com"
+            return parts[-2]
+        return parts[0]
 
     def calculate_entropy(self, text: str) -> float:
         if not text:
             return 0.0
-        counts = Counter(text)
         length = len(text)
-        return -sum((count / length) * math.log2(count / length) for count in counts.values())
-
-    def extract_main_domain(self, domain: str) -> str:
-        parts = domain.lower().strip().split(".")
-        if len(parts) >= 2:
-            return parts[-2]
-        return parts[0]
+        counts = Counter(text)
+        return -sum((c / length) * math.log2(c / length) for c in counts.values())
 
     def analyze(self, domain: str) -> dict:
-        main_name = self.extract_main_domain(domain)
+        domain = domain.strip().lower()
         
-        # 1. ตรวจสอบ Whitelist
-        if any(w in domain.lower() for w in self.whitelist):
-            return {
-                "domain": domain,
-                "main_name": main_name,
-                "entropy": 0.0,
-                "length": len(main_name),
-                "is_dga": False,
-                "confidence": 0.0,
-                "reasons": ["Whitelisted"]
-            }
+        # 1. ข้ามถ้าอยู่ใน Whitelist Keywords
+        for kw in self.whitelist_keywords:
+            if kw in domain:
+                return {
+                    "domain": domain,
+                    "is_dga": False,
+                    "confidence": 0.0,
+                    "entropy": 0.0,
+                    "reasons": ["Whitelisted Service"]
+                }
 
-        # คำนวณ Features
-        entropy = self.calculate_entropy(main_name)
-        length = len(main_name)
-        digits = sum(c.isdigit() for c in main_name)
-        digit_ratio = digits / length if length > 0 else 0
-        
-        # ตรวจสอบพยัญชนะติดกัน
-        consonant_matches = re.findall(r'[bcdfghjklmnpqrstvwxyz]+', main_name)
-        consonant_streak = max([len(m) for m in consonant_matches]) if consonant_matches else 0
+        core_name = self._extract_core_domain(domain)
+        entropy = self.calculate_entropy(core_name)
+        length = len(core_name)
 
-        signals = 0
         reasons = []
+        score = 0.0
 
-        if entropy >= self.entropy_threshold:
-            signals += 1
+        # เงื่อนไขการตรวจจับ
+        if entropy >= self.entropy_threshold and length >= self.min_length:
+            score += 0.5
             reasons.append(f"High Entropy ({entropy:.2f})")
 
-        if length >= self.min_length:
-            signals += 1
-            reasons.append(f"Long Name ({length})")
+        digit_count = sum(c.isdigit() for c in core_name)
+        if length > 0 and (digit_count / length) > 0.35:
+            score += 0.25
+            reasons.append(f"High Digit Ratio ({digit_count}/{length})")
 
-        if digit_ratio > 0.30:
-            signals += 1
-            reasons.append(f"High Digits ({digit_ratio:.0%})")
-
-        if consonant_streak >= 5:
-            signals += 1
-            reasons.append(f"Consonants ({consonant_streak})")
-
-        confidence = round(signals / 4.0, 2)
-        is_dga = signals >= 2
+        is_dga = score >= 0.5
 
         return {
             "domain": domain,
-            "main_name": main_name,
-            "entropy": round(entropy, 2),
-            "length": length,
+            "core_name": core_name,
             "is_dga": is_dga,
-            "confidence": confidence,
+            "confidence": min(score, 1.0),
+            "entropy": round(entropy, 2),
             "reasons": reasons
         }
-
-if __name__ == "__main__":
-    detector = DGADetector()
-    
-    test_domains = [
-        "google.com",
-        "youtube.com",
-        "facebook.com",
-        "gemini.google.com",
-        "chulalongkorn.ac.th",
-        "xk4j9qzplwe2f.com",
-        "a9f8b7c6d5e4f3.net",
-        "qwrtsdfgzxcv1234.org",
-        "vznxkwperuqlamzo198.ru"
-    ]
-
-    print(f"\n{'Domain':<26} | {'Status':<10} | {'Entropy':<8} | {'Conf.':<6} | Reasons")
-    print("-" * 75)
-    for d in test_domains:
-        res = detector.analyze(d)
-        status = "MALICIOUS" if res["is_dga"] else "SAFE"
-        reasons_str = ", ".join(res["reasons"]) if res["reasons"] else "Normal"
-        print(f"{res['domain']:<26} | {status:<10} | {res['entropy']:<8} | {res['confidence']:<6} | {reasons_str}")
