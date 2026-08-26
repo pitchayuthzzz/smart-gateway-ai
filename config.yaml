@@ -1,0 +1,16 @@
+adguard:
+  base_url: "http://127.0.0.1"
+  username: "project"
+  password: "12345678"
+  poll_interval_seconds: 5
+  query_limit: 100
+
+detection:
+  entropy_threshold: 3.5
+  min_length: 12
+  anomaly_contamination: 0.1
+  auto_block_confidence: 0.5
+  max_block_per_round: 5
+
+logging:
+  results_file: "results.csv"

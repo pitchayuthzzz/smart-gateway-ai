@@ -1,0 +1,39 @@
+timestamp,client,domain,entropy,confidence,reasons,action
+2026-08-27 01:22:55,172.20.76.135,malicious-x9f8b7c6d5e4.net,4.28,0.5,High Entropy (4.28); Long Name (22),AUTO_BLOCKED
+2026-08-27 01:22:55,172.20.76.135,malicious-x9f8b7c6d5e4.net,4.28,0.5,High Entropy (4.28); Long Name (22),AUTO_BLOCKED
+2026-08-27 01:27:29,172.20.76.135,malicious-x9f8b7c6d5e4.net,4.28,0.5,High Entropy (4.28); Long Name (22),AUTO_BLOCKED
+2026-08-27 01:27:29,172.20.76.135,malicious-x9f8b7c6d5e4.net,4.28,0.5,High Entropy (4.28); Long Name (22),AUTO_BLOCKED
+2026-08-27 01:27:29,172.20.76.135,malicious-x9f8b7c6d5e4.net,4.28,0.5,High Entropy (4.28); Long Name (22),AUTO_BLOCKED
+2026-08-27 01:27:29,172.20.76.135,malicious-x9f8b7c6d5e4.net,4.28,0.5,High Entropy (4.28); Long Name (22),AUTO_BLOCKED
+2026-08-27 01:54:56,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); Long Name (16); High Digits (38%),AUTO_BLOCKED
+2026-08-27 01:54:56,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); Long Name (16); High Digits (38%),AUTO_BLOCKED
+2026-08-27 01:55:26,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); Long Name (16); High Digits (38%),AUTO_BLOCKED
+2026-08-27 01:55:26,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); Long Name (16); High Digits (38%),AUTO_BLOCKED
+2026-08-27 01:55:31,172.20.76.135,testmaliciousdomain8899.xyz,3.71,0.5,High Entropy (3.71); Long Name (23),AUTO_BLOCKED
+2026-08-27 01:55:31,172.20.76.135,testmaliciousdomain8899.xyz,3.71,0.5,High Entropy (3.71); Long Name (23),AUTO_BLOCKED
+2026-08-27 01:55:31,172.20.76.135,qwxztrpmkldfg123.biz,4.0,0.75,High Entropy (4.00); Long Name (16); Consonants (13),AUTO_BLOCKED
+2026-08-27 01:55:31,172.20.76.135,qwxztrpmkldfg123.biz,4.0,0.75,High Entropy (4.00); Long Name (16); Consonants (13),AUTO_BLOCKED
+2026-08-27 01:55:31,172.20.76.135,9f8a7b6c5d4e3f210a.ru,3.95,0.75,High Entropy (3.95); Long Name (18); High Digits (56%),AUTO_BLOCKED
+2026-08-27 01:55:31,172.20.76.135,9f8a7b6c5d4e3f210a.ru,3.95,0.75,High Entropy (3.95); Long Name (18); High Digits (56%),AUTO_BLOCKED
+2026-08-27 01:56:51,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); Long Name (16); High Digits (38%),AUTO_BLOCKED
+2026-08-27 01:56:51,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); Long Name (16); High Digits (38%),AUTO_BLOCKED
+2026-08-27 01:57:51,172.20.76.135,vx94jka1029qwpmzx.net,3.85,1.0,High Entropy (3.85); Long Name (17); High Digits (35%); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:57:51,172.20.76.135,vx94jka1029qwpmzx.net,3.85,1.0,High Entropy (3.85); Long Name (17); High Digits (35%); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:57:51,172.20.76.135,vx94jka1029qwpmzx.net,3.85,1.0,High Entropy (3.85); Long Name (17); High Digits (35%); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:57:51,172.20.76.135,vx94jka1029qwpmzx.net,3.85,1.0,High Entropy (3.85); Long Name (17); High Digits (35%); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:57:51,172.20.76.135,vx94jka1029qwpmzx.net,3.85,1.0,High Entropy (3.85); Long Name (17); High Digits (35%); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:57:51,172.20.76.135,vx94jka1029qwpmzx.net,3.85,1.0,High Entropy (3.85); Long Name (17); High Digits (35%); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:57:51,172.20.76.135,vx94jka1029qwpmzx.net,3.85,1.0,High Entropy (3.85); Long Name (17); High Digits (35%); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:58:01,172.20.76.135,vx94jka1029qwpmzx.net,3.85,1.0,High Entropy (3.85); Long Name (17); High Digits (35%); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:58:01,172.20.76.135,vx94jka1029qwpmzx.net,3.85,1.0,High Entropy (3.85); Long Name (17); High Digits (35%); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:58:31,172.20.76.135,vzzzx94jka1029qwpmzx.net,3.72,0.75,High Entropy (3.72); Long Name (20); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:58:31,172.20.76.135,vzzzx94jka1029qwpmzx.net,3.72,0.75,High Entropy (3.72); Long Name (20); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:58:31,172.20.76.135,vzzzx94jka1029qwpmzx.net,3.72,0.75,High Entropy (3.72); Long Name (20); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:58:31,172.20.76.135,vzzzx94jka1029qwpmzx.net,3.72,0.75,High Entropy (3.72); Long Name (20); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:58:31,172.20.76.135,vzzzx94jka1029qwpmzx.net,3.72,0.75,High Entropy (3.72); Long Name (20); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:58:31,172.20.76.135,vzzzx94jka1029qwpmzx.net,3.72,0.75,High Entropy (3.72); Long Name (20); Consonants (6),AUTO_BLOCKED
+2026-08-27 01:58:31,172.20.76.135,vzzzx94jka1029qwpmzx.net,3.72,0.75,High Entropy (3.72); Long Name (20); Consonants (6),AUTO_BLOCKED
+2026-08-27 02:03:32,172.20.76.135,geo.captcha-delivery.com,3.62,0.5,High Entropy (3.62); Long Name (16),AUTO_BLOCKED
+2026-08-27 02:03:32,172.20.76.135,ct.captcha-delivery.com,3.62,0.5,High Entropy (3.62); Long Name (16),AUTO_BLOCKED
+2026-08-27 02:03:32,172.20.76.135,ct.captcha-delivery.com,3.62,0.5,High Entropy (3.62); Long Name (16),AUTO_BLOCKED
+2026-08-27 02:03:37,172.20.76.135,geo.captcha-delivery.com,3.62,0.5,High Entropy (3.62); Long Name (16),AUTO_BLOCKED
