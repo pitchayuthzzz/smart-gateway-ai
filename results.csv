@@ -37,3 +37,238 @@ timestamp,client,domain,entropy,confidence,reasons,action
 2026-08-27 02:03:32,172.20.76.135,ct.captcha-delivery.com,3.62,0.5,High Entropy (3.62); Long Name (16),AUTO_BLOCKED
 2026-08-27 02:03:32,172.20.76.135,ct.captcha-delivery.com,3.62,0.5,High Entropy (3.62); Long Name (16),AUTO_BLOCKED
 2026-08-27 02:03:37,172.20.76.135,geo.captcha-delivery.com,3.62,0.5,High Entropy (3.62); Long Name (16),AUTO_BLOCKED
+2026-08-27 10:29:31,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:29:31,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:31:07,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:31:07,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:33:55,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:33:55,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:34:55,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:34:55,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:40:01,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:40:01,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:40:51,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); High Digit Ratio (6/16),AUTO_BLOCKED
+2026-08-27 10:40:51,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); High Digit Ratio (6/16),AUTO_BLOCKED
+2026-08-27 10:40:51,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); High Digit Ratio (6/16),AUTO_BLOCKED
+2026-08-27 10:40:51,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); High Digit Ratio (6/16),AUTO_BLOCKED
+2026-08-27 10:40:51,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); High Digit Ratio (6/16),AUTO_BLOCKED
+2026-08-27 10:40:51,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); High Digit Ratio (6/16),AUTO_BLOCKED
+2026-08-27 10:40:51,172.20.76.135,vzx94jka1029qwpm.net,3.88,0.75,High Entropy (3.88); High Digit Ratio (6/16),AUTO_BLOCKED
+2026-08-27 10:41:37,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:41:37,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:42:57,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:42:57,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:44:22,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:44:22,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:45:27,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:45:27,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:46:48,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:46:48,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:47:53,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:47:53,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:49:03,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:49:03,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:50:18,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:50:18,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:51:19,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:51:19,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:51:24,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:51:24,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:51:24,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:51:24,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:51:24,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:51:24,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:51:24,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:51:24,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:51:24,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:51:24,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:51:59,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:51:59,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:52:39,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:52:39,172.20.76.135,browser-intake-us5-datadoghq.com,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 10:52:59,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:52:59,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:53:09,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:53:09,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:53:29,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:53:29,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:53:29,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:53:29,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:53:29,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:53:29,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:53:29,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:53:29,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:55:04,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 10:55:04,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:03:11,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:03:11,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:03:16,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:03:16,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:04:41,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:04:41,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:05:02,172.20.76.135,k3cj47wmu7tnqjep.com,3.75,0.5,High Entropy (3.75),AUTO_BLOCKED
+2026-08-27 11:05:02,172.20.76.135,nqk6kruxrlle08sl5fwos.biz,3.88,0.5,High Entropy (3.88),AUTO_BLOCKED
+2026-08-27 11:05:02,172.20.76.135,9vkb7d13n32o7cfg7l8.info,3.89,0.75,High Entropy (3.89); High Digit Ratio (9/19),AUTO_BLOCKED
+2026-08-27 11:05:02,172.20.76.135,anlei3plejg5cu041.com,3.85,0.5,High Entropy (3.85),AUTO_BLOCKED
+2026-08-27 11:05:02,172.20.76.135,18luslvj1djuzhxc3.xyz,3.62,0.5,High Entropy (3.62),AUTO_BLOCKED
+2026-08-27 11:05:02,172.20.76.135,sndls9kt6ujxmew.net,3.77,0.5,High Entropy (3.77),AUTO_BLOCKED
+2026-08-27 11:05:02,172.20.76.135,wdkv06rw3ng79oj8ay.info,4.06,0.5,High Entropy (4.06),AUTO_BLOCKED
+2026-08-27 11:05:02,172.20.76.135,f9j1yb924zli1oh318q3.xyz,3.88,0.75,High Entropy (3.88); High Digit Ratio (10/20),AUTO_BLOCKED
+2026-08-27 11:05:02,172.20.76.135,f62u4k1rldj8bezjrbw10.net,4.01,0.5,High Entropy (4.01),AUTO_BLOCKED
+2026-08-27 11:05:07,172.20.76.135,qt3jcou73o0vu1815h.biz,3.73,0.75,High Entropy (3.73); High Digit Ratio (8/18),AUTO_BLOCKED
+2026-08-27 11:05:07,172.20.76.135,5bitsmwmy0lbw7s1up4g9p.biz,4.0,0.5,High Entropy (4.00),AUTO_BLOCKED
+2026-08-27 11:05:07,172.20.76.135,s837zfyzbk6q0liey6.biz,3.84,0.5,High Entropy (3.84),AUTO_BLOCKED
+2026-08-27 11:05:07,172.20.76.135,0cr9oasilg3y5fwdj76.biz,4.25,0.5,High Entropy (4.25),AUTO_BLOCKED
+2026-08-27 11:05:07,172.20.76.135,9t5l69bezwalo4p.net,3.64,0.5,High Entropy (3.64),AUTO_BLOCKED
+2026-08-27 11:05:07,172.20.76.135,b1s7380kse84aw.com,3.52,0.75,High Entropy (3.52); High Digit Ratio (7/14),AUTO_BLOCKED
+2026-08-27 11:05:07,172.20.76.135,tc6yd45dxfif8oo.net,3.51,0.5,High Entropy (3.51),AUTO_BLOCKED
+2026-08-27 11:05:07,172.20.76.135,imecnmlstcy639v1rc5t.info,3.88,0.5,High Entropy (3.88),AUTO_BLOCKED
+2026-08-27 11:05:12,172.20.76.135,xo7z1jg1t0ap2l8.com,3.77,0.75,High Entropy (3.77); High Digit Ratio (6/15),AUTO_BLOCKED
+2026-08-27 11:05:12,172.20.76.135,ir4wpi9vmc41ne1t39cccz.info,3.73,0.5,High Entropy (3.73),AUTO_BLOCKED
+2026-08-27 11:05:12,172.20.76.135,z3keg6jyxbp4q7wdurioky.com,4.28,0.5,High Entropy (4.28),AUTO_BLOCKED
+2026-08-27 11:05:12,172.20.76.135,bm1n9z7rmg6i79gtkn.info,3.61,0.5,High Entropy (3.61),AUTO_BLOCKED
+2026-08-27 11:05:12,172.20.76.135,4zi5t7gkguxa5ob.net,3.64,0.5,High Entropy (3.64),AUTO_BLOCKED
+2026-08-27 11:05:12,172.20.76.135,ljr8ouzf6uo2yn.biz,3.52,0.5,High Entropy (3.52),AUTO_BLOCKED
+2026-08-27 11:05:12,172.20.76.135,atuk29ws7xwxz2h3v3s.info,3.72,0.5,High Entropy (3.72),AUTO_BLOCKED
+2026-08-27 11:05:12,172.20.76.135,d37kzvfnmh4j3be.net,3.77,0.5,High Entropy (3.77),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,dns16mbqok53mg765.com,3.73,0.75,High Entropy (3.73); High Digit Ratio (7/17),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,h4m1k0t29zgkwj.biz,3.66,0.75,High Entropy (3.66); High Digit Ratio (5/14),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,m4pbvu1c1syvbw9.info,3.51,0.5,High Entropy (3.51),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,u2dmhd1iotzpvus59kn4.xyz,4.12,0.5,High Entropy (4.12),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,8lkh76gbe0h2m0v.net,3.64,0.75,High Entropy (3.64); High Digit Ratio (6/15),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,6mxma3blec4yldl45fe.net,3.68,0.5,High Entropy (3.68),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,pxosxkf1ai6uw5y2.biz,3.88,0.5,High Entropy (3.88),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,dnma7fo6848y2e.com,3.66,0.75,High Entropy (3.66); High Digit Ratio (6/14),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,faydil5oarqzf8j2h.net,3.85,0.5,High Entropy (3.85),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,llrnzib2s6neax3es.biz,3.62,0.5,High Entropy (3.62),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,kxn38hhna89nn975pce.com,3.51,0.75,High Entropy (3.51); High Digit Ratio (7/19),AUTO_BLOCKED
+2026-08-27 11:05:17,172.20.76.135,tva0i4jsodqlkqh.xyz,3.77,0.5,High Entropy (3.77),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,y6s3cwv1c8fq357o.com,3.75,0.75,High Entropy (3.75); High Digit Ratio (7/16),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,l3wm5y2z5hprjp0n9n6.xyz,3.93,0.75,High Entropy (3.93); High Digit Ratio (7/19),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,nxmy6e7gbfs8nbgocn2y34.xyz,3.97,0.5,High Entropy (3.97),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,piln0wi5d4ko9qj.com,3.77,0.5,High Entropy (3.77),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,ya67j480lqme81j.biz,3.64,0.75,High Entropy (3.64); High Digit Ratio (7/15),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,3eykwmwks6poauq2xvtl.biz,4.12,0.5,High Entropy (4.12),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,f7zvkukd0ylj726uu.biz,3.57,0.5,High Entropy (3.57),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,6ltylwn0uzw7s2m.com,3.64,0.5,High Entropy (3.64),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,f2bl1tv58kok85gu.net,3.62,0.75,High Entropy (3.62); High Digit Ratio (6/16),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,tnq1p6djcofb7s3eejy3s.info,4.01,0.5,High Entropy (4.01),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,8r0kco1x41jqpvx.net,3.64,0.5,High Entropy (3.64),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,o3hav0qvtx3bsczmgh6sdo.xyz,4.0,0.5,High Entropy (4.00),AUTO_BLOCKED
+2026-08-27 11:05:22,172.20.76.135,pnk32n8xkezzyh4q004j.net,3.82,0.5,High Entropy (3.82),AUTO_BLOCKED
+2026-08-27 11:05:27,172.20.76.135,prdzkj96q2kua6396.biz,3.57,0.75,High Entropy (3.57); High Digit Ratio (7/17),AUTO_BLOCKED
+2026-08-27 11:05:27,172.20.76.135,q6kcehcs2b5cldr4xe1c.net,3.82,0.5,High Entropy (3.82),AUTO_BLOCKED
+2026-08-27 11:05:27,172.20.76.135,q7yn48vmcrs9otodde2.biz,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 11:05:27,172.20.76.135,xx41r8bajsrprpyfn70.xyz,3.79,0.5,High Entropy (3.79),AUTO_BLOCKED
+2026-08-27 11:05:27,172.20.76.135,uvb0uyb1bre5m5ziuhfo.net,3.75,0.5,High Entropy (3.75),AUTO_BLOCKED
+2026-08-27 11:05:27,172.20.76.135,4d3qucn44o1erpj.biz,3.59,0.5,High Entropy (3.59),AUTO_BLOCKED
+2026-08-27 11:05:27,172.20.76.135,tmz6dl3ti3oo8rkd7o.xyz,3.57,0.5,High Entropy (3.57),AUTO_BLOCKED
+2026-08-27 11:05:27,172.20.76.135,z8opwkhin0o25ull4o7tv4.biz,4.06,0.5,High Entropy (4.06),AUTO_BLOCKED
+2026-08-27 11:05:27,172.20.76.135,bjia8ih3ja7dnpfuzknnpp.com,3.75,0.5,High Entropy (3.75),AUTO_BLOCKED
+2026-08-27 11:05:27,172.20.76.135,0rlw5diy1ua1g4az2.xyz,3.85,0.75,High Entropy (3.85); High Digit Ratio (6/17),AUTO_BLOCKED
+2026-08-27 11:05:27,172.20.76.135,3mie3gpd6i12vsv3k.info,3.57,0.75,High Entropy (3.57); High Digit Ratio (6/17),AUTO_BLOCKED
+2026-08-27 11:05:32,172.20.76.135,repfrwy71jfspfxm2u.xyz,3.68,0.5,High Entropy (3.68),AUTO_BLOCKED
+2026-08-27 11:05:32,172.20.76.135,8ynl6m0srbal4ybykh.info,3.68,0.5,High Entropy (3.68),AUTO_BLOCKED
+2026-08-27 11:05:32,172.20.76.135,48nvkz905t3c1tb.biz,3.77,0.75,High Entropy (3.77); High Digit Ratio (7/15),AUTO_BLOCKED
+2026-08-27 11:05:32,172.20.76.135,ftq1i7jzc648vm0qaevdo.info,4.2,0.5,High Entropy (4.20),AUTO_BLOCKED
+2026-08-27 11:05:32,172.20.76.135,25n3wbh9bf4lxrsid4n.biz,3.93,0.5,High Entropy (3.93),AUTO_BLOCKED
+2026-08-27 11:05:32,172.20.76.135,sjagn70yhuo2i0o9i4t.net,3.93,0.5,High Entropy (3.93),AUTO_BLOCKED
+2026-08-27 11:05:32,172.20.76.135,4kdso2gvoiw8lul2jly.xyz,3.79,0.5,High Entropy (3.79),AUTO_BLOCKED
+2026-08-27 11:05:32,172.20.76.135,s5mnxdnnw89p08gz.com,3.58,0.5,High Entropy (3.58),AUTO_BLOCKED
+2026-08-27 11:05:32,172.20.76.135,8c6ibm7unwqkg58p.info,3.88,0.5,High Entropy (3.88),AUTO_BLOCKED
+2026-08-27 11:05:32,172.20.76.135,e0hzml4wocw8o8obua9xd.net,3.98,0.5,High Entropy (3.98),AUTO_BLOCKED
+2026-08-27 11:05:37,172.20.76.135,7pct1wbjnwr0ohfc4b1i9x.net,4.1,0.5,High Entropy (4.10),AUTO_BLOCKED
+2026-08-27 11:05:37,172.20.76.135,bz8qxuptbzi2jpa450.info,3.84,0.5,High Entropy (3.84),AUTO_BLOCKED
+2026-08-27 11:05:37,172.20.76.135,w3gefi92lpobh32e2lxp15.xyz,3.88,0.75,High Entropy (3.88); High Digit Ratio (8/22),AUTO_BLOCKED
+2026-08-27 11:05:37,172.20.76.135,8lu9h4etets0icibg.biz,3.73,0.5,High Entropy (3.73),AUTO_BLOCKED
+2026-08-27 11:09:33,172.20.76.135,9srbefv49wb5tmfm8hm6.info,3.78,0.5,High Entropy (3.78),AUTO_BLOCKED
+2026-08-27 11:09:33,172.20.76.135,ld984a73kgj9v5rctwe91.biz,4.17,0.75,High Entropy (4.17); High Digit Ratio (9/21),AUTO_BLOCKED
+2026-08-27 11:09:33,172.20.76.135,gdzfisnqyu87c04af19.com,4.14,0.5,High Entropy (4.14),AUTO_BLOCKED
+2026-08-27 11:09:33,172.20.76.135,vrade638f36xyxhuqy.info,3.73,0.5,High Entropy (3.73),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,nicv6j6nt41g08a.com,3.64,0.75,High Entropy (3.64); High Digit Ratio (6/15),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,6pn1mmvi85dh7alp8zrmr2.xyz,3.97,0.5,High Entropy (3.97),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,39j265gz0jermt.com,3.66,0.75,High Entropy (3.66); High Digit Ratio (6/14),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,zkjropbe7el27hfo9m22.info,3.78,0.5,High Entropy (3.78),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,m0767g4se3l09tai7.net,3.69,0.75,High Entropy (3.69); High Digit Ratio (9/17),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,h3ngjwvk7hvcllxp9cylyg.net,3.79,0.5,High Entropy (3.79),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,z771bh3w1uq0wsqa.xyz,3.5,0.75,High Entropy (3.50); High Digit Ratio (6/16),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,7p16jnue6k0f8euk80lx8z.com,3.79,0.75,High Entropy (3.79); High Digit Ratio (9/22),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,abwk8vlonal27uvcx.biz,3.73,0.5,High Entropy (3.73),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,ltvp3ajih96fuknfz53.biz,4.04,0.5,High Entropy (4.04),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,2v1rmhqf0gesmfq.xyz,3.51,0.5,High Entropy (3.51),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,m6zrta7hm6nlqb2cczlh.net,3.72,0.5,High Entropy (3.72),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,0mvx6rogjjzx97bkp2gw.net,4.02,0.5,High Entropy (4.02),AUTO_BLOCKED
+2026-08-27 11:09:38,172.20.76.135,axeq5dnk60h9bzr.net,3.91,0.5,High Entropy (3.91),AUTO_BLOCKED
+2026-08-27 11:09:43,172.20.76.135,qf7n9it2fayh2sm.xyz,3.64,0.5,High Entropy (3.64),AUTO_BLOCKED
+2026-08-27 11:09:43,172.20.76.135,syet059wznopl4.net,3.81,0.5,High Entropy (3.81),AUTO_BLOCKED
+2026-08-27 11:09:43,172.20.76.135,bydwpkucbkpv4oq.net,3.51,0.5,High Entropy (3.51),AUTO_BLOCKED
+2026-08-27 11:09:43,172.20.76.135,dobda16biz535g4ltwi.com,3.83,0.5,High Entropy (3.83),AUTO_BLOCKED
+2026-08-27 11:09:43,172.20.76.135,olavv23xamu3614s1.net,3.62,0.75,High Entropy (3.62); High Digit Ratio (7/17),AUTO_BLOCKED
+2026-08-27 11:09:43,172.20.76.135,d9u1fi5tq05zt740qb9.info,3.72,0.75,High Entropy (3.72); High Digit Ratio (9/19),AUTO_BLOCKED
+2026-08-27 11:09:43,172.20.76.135,745uhixtkfln8ijet1.net,3.95,0.5,High Entropy (3.95),AUTO_BLOCKED
+2026-08-27 11:09:43,172.20.76.135,k0i1fre60lkqvbfg29sk0.info,3.84,0.5,High Entropy (3.84),AUTO_BLOCKED
+2026-08-27 11:09:43,172.20.76.135,00jtyd8hi64emul8i0x.info,3.79,0.75,High Entropy (3.79); High Digit Ratio (7/19),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,hjrgoheqb9p4tt.xyz,3.52,0.5,High Entropy (3.52),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,31b8c2gw3viuq1gj.com,3.62,0.75,High Entropy (3.62); High Digit Ratio (6/16),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,qaib8031irh16s.biz,3.52,0.75,High Entropy (3.52); High Digit Ratio (6/14),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,61takiftgq9b4a7ilubc.info,3.92,0.5,High Entropy (3.92),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,mqmwplso2yny0qb09lzup.com,3.82,0.5,High Entropy (3.82),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,u3gskb9505zcwb.com,3.52,0.75,High Entropy (3.52); High Digit Ratio (5/14),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,jr47zu5l0yq9lkhddjur3.xyz,3.92,0.5,High Entropy (3.92),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,n1z5k0s942zt4g25irv42g.xyz,3.75,0.75,High Entropy (3.75); High Digit Ratio (11/22),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,ew5v54tmxinsx0.biz,3.52,0.5,High Entropy (3.52),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,0l0mzi4qncjmcf4s2a.com,3.73,0.5,High Entropy (3.73),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,yn2p137gr44luz.biz,3.66,0.75,High Entropy (3.66); High Digit Ratio (6/14),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,efel9qudmq6mgkjuyv.net,3.73,0.5,High Entropy (3.73),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,pbpf7zqu3dmps991ouuhxj.biz,3.94,0.5,High Entropy (3.94),AUTO_BLOCKED
+2026-08-27 11:09:48,172.20.76.135,xjcr29ien6k4lo1qb0j17o.xyz,4.19,0.75,High Entropy (4.19); High Digit Ratio (8/22),AUTO_BLOCKED
+2026-08-27 11:09:53,172.20.76.135,9y9p7lvv9eyv3xg4cm.xyz,3.53,0.5,High Entropy (3.53),AUTO_BLOCKED
+2026-08-27 11:09:53,172.20.76.135,rcrqxn3ik1jn0oltby.xyz,3.95,0.5,High Entropy (3.95),AUTO_BLOCKED
+2026-08-27 11:09:53,172.20.76.135,52ysdjl8el98saoxxcf7.biz,3.92,0.5,High Entropy (3.92),AUTO_BLOCKED
+2026-08-27 11:09:53,172.20.76.135,sj59su6a8b2si1kb8w3yx.xyz,3.98,0.75,High Entropy (3.98); High Digit Ratio (8/21),AUTO_BLOCKED
+2026-08-27 11:09:53,172.20.76.135,3ok2qygxi4jo31.com,3.52,0.75,High Entropy (3.52); High Digit Ratio (5/14),AUTO_BLOCKED
+2026-08-27 11:09:53,172.20.76.135,9lm95y11njox3e5gitt.com,3.83,0.75,High Entropy (3.83); High Digit Ratio (7/19),AUTO_BLOCKED
+2026-08-27 11:09:53,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:09:53,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:09:53,172.20.76.135,0e1egvyf4ubk2fu6koep9g.net,3.88,0.5,High Entropy (3.88),AUTO_BLOCKED
+2026-08-27 11:09:53,172.20.76.135,iu8sz4zubdk9ebqi4h2ea1.xyz,3.91,0.5,High Entropy (3.91),AUTO_BLOCKED
+2026-08-27 11:09:53,172.20.76.135,ox1m1gr7bt098h5gfvv.com,3.93,0.75,High Entropy (3.93); High Digit Ratio (7/19),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,plcxf80px6k1k7e2k3c5e6.biz,3.79,0.75,High Entropy (3.79); High Digit Ratio (9/22),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,g97h68d43zcjotpzf0un0p.biz,4.19,0.75,High Entropy (4.19); High Digit Ratio (8/22),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,ztd0yqt09hios8n6.info,3.75,0.5,High Entropy (3.75),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,6n28e90h78z0ruo.xyz,3.64,0.75,High Entropy (3.64); High Digit Ratio (8/15),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,okqyw5o74ue4h6cpvmu881.info,4.1,0.75,High Entropy (4.10); High Digit Ratio (8/22),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,03r3w9dozf5log4rgm00.com,3.68,0.75,High Entropy (3.68); High Digit Ratio (8/20),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,48e12k5p9ftfzxrvqg.info,4.06,0.5,High Entropy (4.06),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,25d9gptifd2s84w2ytgs.xyz,3.68,0.5,High Entropy (3.68),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,jubmm1qmkbxadtoqtl3.biz,3.68,0.5,High Entropy (3.68),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,qgzs0ua7f6rj4puv9.net,3.97,0.5,High Entropy (3.97),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,vtmu3ce8lx5tfayvpbjsyx.info,4.1,0.5,High Entropy (4.10),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,vx2fs54zkt6tu2txg6qy56.net,3.75,0.75,High Entropy (3.75); High Digit Ratio (8/22),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,s71062stb32j8n2m7u.biz,3.68,0.75,High Entropy (3.68); High Digit Ratio (10/18),AUTO_BLOCKED
+2026-08-27 11:09:58,172.20.76.135,gmcrgh8q24on6fymjt5u3.net,4.2,0.5,High Entropy (4.20),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,b4y3tvw4m3f373jactax.net,3.62,0.5,High Entropy (3.62),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,hq6h98tyn4i28a6fmvtig.com,3.92,0.5,High Entropy (3.92),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,ds43btj095p0k8zrp.xyz,3.85,0.75,High Entropy (3.85); High Digit Ratio (7/17),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,hsz48wtns264fa.com,3.52,0.75,High Entropy (3.52); High Digit Ratio (5/14),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,wvvxez5besosnjt1a.biz,3.73,0.5,High Entropy (3.73),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,imdx11s5e8r9hpul3.com,3.97,0.75,High Entropy (3.97); High Digit Ratio (6/17),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,3t938657p8aw0i4f.biz,3.75,0.75,High Entropy (3.75); High Digit Ratio (10/16),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,mh5sqr98nwm16flm9srj1.xyz,3.78,0.5,High Entropy (3.78),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,cyvs8b7scmf9yitnlo7jt.com,3.92,0.5,High Entropy (3.92),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,crmiw6xy32k97pg4.biz,4.0,0.75,High Entropy (4.00); High Digit Ratio (6/16),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,lboh8qk3w9gdvm.net,3.81,0.5,High Entropy (3.81),AUTO_BLOCKED
+2026-08-27 11:10:03,172.20.76.135,7gfb885fo2jbmejyu0vio.com,3.92,0.5,High Entropy (3.92),AUTO_BLOCKED
+2026-08-27 11:10:08,172.20.76.135,j9stt12l5ujq8f6zy51k6.com,3.92,0.75,High Entropy (3.92); High Digit Ratio (9/21),AUTO_BLOCKED
+2026-08-27 11:10:08,172.20.76.135,m5euljfo22txtaugeq.info,3.73,0.5,High Entropy (3.73),AUTO_BLOCKED
+2026-08-27 11:10:08,172.20.76.135,04ahm5xk174r973q797n.info,3.72,0.75,High Entropy (3.72); High Digit Ratio (12/20),AUTO_BLOCKED
+2026-08-27 11:10:08,172.20.76.135,acnkp12s8g63q7krfms55a.com,4.1,0.75,High Entropy (4.10); High Digit Ratio (8/22),AUTO_BLOCKED
+2026-08-27 11:10:08,172.20.76.135,akb888ioqrfhmv5vi06.net,3.79,0.5,High Entropy (3.79),AUTO_BLOCKED
+2026-08-27 11:10:58,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:10:58,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:13:19,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:13:19,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:23:26,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:23:26,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:29:58,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
+2026-08-27 11:29:58,172.20.76.135,www.google-analytics.com,3.5,0.5,High Entropy (3.50),AUTO_BLOCKED
